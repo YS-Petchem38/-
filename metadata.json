@@ -1,0 +1,6 @@
+{
+  "name": "세일알림",
+  "description": "사고 싶은 상품의 가격을 추적하고 최저가 및 목표 가격 도달 시 스마트 알림을 보내주는 세일알림 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
